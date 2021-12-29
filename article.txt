@@ -1,0 +1,1 @@
+6. File artical.txt contains an article in English (please create the file by yourself and put any English article you picked in it). Assume the article only contains ‘,’, ‘.’, ‘!’, ‘?’ and ‘...’ as punctuations, make a program to find out the longest word and print it.
